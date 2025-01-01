@@ -1,7 +1,7 @@
-# Exploratory Data Analysis (EDA) Report
+# Exploratory Data Analysis (EDA) Report, Hypothesis Testing, and Statstical Modeling
 
 ## Overview
-This report presents an exploratory data analysis (EDA) of a dataset containing insurance-related information. The analysis aims to summarize the main characteristics of the data, visualize distributions, and identify trends across different categories.
+This report presents an exploratory data analysis (EDA),  Hypothesis Testing, and Statstical Modeling of a dataset containing insurance-related information. The analysis aims to summarize the main characteristics of the data, visualize distributions, and identify trends across different categories.
 
 ## Data Overview
 The dataset consists of **1,000,098 rows and 52 columns**, containing various features related to insurance policies, premiums, and claims.
